@@ -27,3 +27,9 @@ nav{
     padding-left: 10%;
     padding-top: 30px;
 }
+
+.col-4{
+    width: 50%;
+    height: 100px;
+    background-color: grey;
+}
